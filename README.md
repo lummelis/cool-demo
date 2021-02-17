@@ -1,6 +1,6 @@
 # Cool Stuff With Custom Properties
 
-[View Demo](https://lummelis.github.io/cool-demo/)
+[View Demo](https://lummelis.github.io/cool-demo/start/index.html)
 
 ## Get Started
 
